@@ -6,7 +6,7 @@
   "framework": "vite",
   "rewrites": [
     {
-      "source": "/((?!assets/).*)",
+      "source": "/((?!assets|images|_next|api).*)",
       "destination": "/index.html"
     }
   ],
