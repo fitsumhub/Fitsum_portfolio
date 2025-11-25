@@ -2,7 +2,7 @@
 
 ## 🎉 Your Portfolio is LIVE!
 
-**Production URL:** https://fitsum-portfolio.vercel.app
+**Production URL:** https://fitsum-portfolio-beta.vercel.app
 
 **Vercel Dashboard:** https://vercel.com/fitsums-projects-e461005f/fitsum-portfolio
 
@@ -20,7 +20,7 @@
 
 ## 🔗 Access Your Site
 
-**Main URL:** https://fitsum-portfolio.vercel.app
+**Main URL:** https://fitsum-portfolio-beta.vercel.app
 
 **Latest Deployment:** Check Vercel dashboard for the most recent deployment URL
 
@@ -50,7 +50,7 @@ For now, your frontend works perfectly standalone! 🎊
 
 ## 🎯 Your Portfolio is Ready!
 
-Visit: **https://fitsum-portfolio.vercel.app**
+Visit: **https://fitsum-portfolio-beta.vercel.app**
 
 Share it with the world! 🌟
 
